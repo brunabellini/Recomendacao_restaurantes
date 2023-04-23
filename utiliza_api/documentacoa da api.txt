@@ -1,0 +1,163 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red16\green60\blue192;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c6667\c33333\c80000;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid2\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid101\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh16820\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs29\fsmilli14667 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Dicion\'e1rio de dados
+\f1\fs24 \
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\f0\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Estabelecimento:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Nome: nome do estabelecimento\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Categoria: categoria do estabelecimento (ex: restaurante asi\'e1tico, balada...)\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 thumbnail: link da imagem da fachada do estabelecimento\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ID: ID do estabelecimento\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Cluster: cluster do estabelecimento obtido na modelagem\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 QntdAvaliacoes: quantas avalia\'e7\'f5es o estabelecimento teve\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 FuncionamentoDias:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 sunday, monday, friday, wednesday, tuesday, thrusday, saturday: colunas bin\'e1rias que se referem aos dias da semana em que o estabelecimento abre\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 aberto_final_de_semana: % dos dias de final de semana (sexta, s\'e1bado, domingo) em que o restaurante est\'e1 aberto\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 idEstabelecimento: ID do estabelecimento (o mesmo da coluna ID na tabela Estabelecimento)\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 aberto_dia_util: % dos dias da semana (segunda, ter\'e7a, quarta, quinta) em que o restaurante est\'e1 aberto\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 FuncionamentoHorarios:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Inicio: hor\'e1rio de abertura (em horas) ex: 13.5h = 13h30min\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 fim: hor\'e1rio de fechamento (em horas)\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 inicio_periodo: em que per\'edodo (manh\'e3, tarde, noite, madrugada) o restaurante abre\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 fim_periodo: em que per\'edodo (manh\'e3, tarde, noite, madrugada) o restaurante fecha\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 madrugada, manh\'e3, tarde, noite: % de cada per\'edodo em que o restaurante fica aberto\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 idEstabelecimento: ID do estabelecimento (o mesmo da coluna ID na tabela Estabelecimento)\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Localiza\'e7\'e3o:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Endere\'e7o: endere\'e7o do estabelecimento\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Latitude: latitude da localiza\'e7\'e3o do estabelecimento\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Longitude: longitude da localiza\'e7\'e3o do estabelecimento\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ZonaSP: se est\'e1 na zona sul, norte, leste, oeste ou outra (outra \'e9 quando est\'e1 fora do limite de S\'e3o Paulo)\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 idEstabelecimento: ID do estabelecimento (o mesmo da coluna ID na tabela Estabelecimento)\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 PolaridadeMedia:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 PolaridadeTexto: se a polaridade \'e9 "Negativa", "Neutra" ou "Positiva"\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 PolaridadeValor: -1, 0 ou 1 (respectivamente, significam negativa, m\'e9dia ou positiva)\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 idEstabelecimento: ID do estabelecimento (o mesmo da coluna ID na tabela Estabelecimento)\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Avalia\'e7\'f5es:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ID: ID da avalia\'e7\'e3o\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Texto: texto escrito na avalia\'e7\'e3o\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Nota: nota dada na avalia\'e7\'e3o\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Data: data da avalia\'e7\'e3o\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 PolaridadeTexto: polaridade daquele coment\'e1rio espec\'edfico\'a0\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Servi\'e7o:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ID: ID do restaurante\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 dine_in, takeout, delivery,drive_through\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1: fornece esse servi\'e7o\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 0: n\'e3o fornece esse servi\'e7o\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Principais palavras:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Nome: nome do restaurante\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 palavra: palavras mais relevantes na review desse restaurante\
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 frequencia: frequencia que a palavra aparece na review\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs29\fsmilli14667 \cf0 Passo a passo como utilizar a API\'a0
+\f1\fs24 \
+\
+
+\f0\fs29\fsmilli14667 Para utilizar o c\'f3digo, voc\'ea precisar\'e1 seguir os seguintes passos:
+\f1\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0
+\f0\fs29\fsmilli14667 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Certifique-se de que o Pandas e o Flask estejam instalados no seu ambiente Python.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Certifique-se de ter os arquivos CSV necess\'e1rios, que s\'e3o 'Estabelecimento.csv', 'Avaliacoes.csv', 'FuncionamentoDias.csv', 'FuncionamentoHorarios.csv', 'Localizacao.csv', 'PolaridadeMedia.csv', 'PrincipaisPalavras.csv' e 'Servico.csv'.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Certifique-se de que os arquivos CSV estejam no mesmo diret\'f3rio que o arquivo Python.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Execute o arquivo Python.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Abra um navegador web e acesse a URL '{\field{\*\fldinst{HYPERLINK "http://localhost:2100/"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 http://localhost:2100/}}' para obter todos os dados do CSV 'Estabelecimento.csv' como um JSON.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	6	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Para obter dados de um estabelecimento espec\'edfico, acesse a URL '{\field{\*\fldinst{HYPERLINK "http://localhost:2100/estabelecimento?cod=%7Bcodigo%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 http://localhost:2100/estabelecimento?cod=\{codigo\}}}', onde '\{codigo\}' \'e9 o c\'f3digo do estabelecimento que voc\'ea deseja obter os dados.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	7	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Para obter as avalia\'e7\'f5es de um estabelecimento espec\'edfico, acesse a URL '{\field{\*\fldinst{HYPERLINK "http://localhost:2100/avaliacoes?cod=%7Bcodigo%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 http://localhost:2100/avaliacoes?cod=\{codigo\}}}', onde '\{codigo\}' \'e9 o c\'f3digo do estabelecimento que voc\'ea deseja obter as avalia\'e7\'f5es.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	8	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Para obter os dias de funcionamento de um estabelecimento espec\'edfico, acesse a URL '{\field{\*\fldinst{HYPERLINK "http://localhost:2100/diasfuncionamento?cod=%7Bcodigo%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 http://localhost:2100/diasfuncionamento?cod=\{codigo\}}}', onde '\{codigo\}' \'e9 o c\'f3digo do estabelecimento que voc\'ea deseja obter os dias de funcionamento.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	9	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Para obter os hor\'e1rios de funcionamento de um estabelecimento espec\'edfico, acesse a URL '{\field{\*\fldinst{HYPERLINK "http://localhost:2100/horarios?cod=%7Bcodigo%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 http://localhost:2100/horarios?cod=\{codigo\}}}', onde '\{codigo\}' \'e9 o c\'f3digo do estabelecimento que voc\'ea deseja obter os hor\'e1rios de funcionamento.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	10	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Para obter a localiza\'e7\'e3o de um estabelecimento espec\'edfico, acesse a URL '{\field{\*\fldinst{HYPERLINK "http://localhost:2100/localizacao?cod=%7Bcodigo%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 http://localhost:2100/localizacao?cod=\{codigo\}}}', onde '\{codigo\}' \'e9 o c\'f3digo do estabelecimento que voc\'ea deseja obter a localiza\'e7\'e3o.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	11	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Para obter a polaridade m\'e9dia de um estabelecimento espec\'edfico, acesse a URL '{\field{\*\fldinst{HYPERLINK "http://localhost:2100/polaridade?cod=%7Bcodigo%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 http://localhost:2100/polaridade?cod=\{codigo\}}}', onde '\{codigo\}' \'e9 o c\'f3digo do estabelecimento que voc\'ea deseja obter a polaridade m\'e9dia.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	12	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Para obter as principais palavras associadas a um estabelecimento espec\'edfico, acesse a URL '{\field{\*\fldinst{HYPERLINK "http://localhost:2100/principaispalavras?cod=%7Bcodigo%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 http://localhost:2100/principaispalavras?cod=\{codigo\}}}', onde '\{codigo\}' \'e9 o c\'f3digo do estabelecimento que voc\'ea deseja obter as principais palavras.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	13	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Para obter os servi\'e7os oferecidos por um estabelecimento espec\'edfico, acesse a URL '{\field{\*\fldinst{HYPERLINK "http://localhost:2100/servico?cod=%7Bcodigo%7D"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 http://localhost:2100/servico?cod=\{codigo\}}}', onde '\{codigo\}' \'e9 o c\'f3digo do estabelecimento que voc\'ea deseja obter os servi\'e7os oferecidos.\
+\pard\pardeftab720\partightenfactor0
+\cf0 Observe que o c\'f3digo usa o m\'e9todo HTTP GET para obter os dados do servidor. Certifique-se de usar os URLs corretos e de inserir o c\'f3digo do estabelecimento correto na consulta.
+\f1\fs24 \
+}
