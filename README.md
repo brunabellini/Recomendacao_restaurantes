@@ -1,3 +1,9 @@
+<a href="https://imgbox.com/krMhDCkG" target="_blank"><img src="https://images2.imgbox.com/78/b0/krMhDCkG_o.png" alt="image host"/></a>
+
+# <b>Recomendação e avaliação de restaurantes</b> 
+
+**Ciência de Dados e Inteligência Artificial - MA5**
+
 Este trabalho tem como objetivo <b>fornecer ao usuário uma ferramenta que permita a busca por uma lista de estabelecimentos</b>, oferecendo informações importantes e relevantes de acessibilidade, horário de funcionamento e localização, com a <i>vantagem de apresentar um resumo das principais avaliações para que o usuário possa avaliar mais facilmente se o estabelecimento atende às suas necessidades</i>.
 
 Além disso, este projeto visa <b>sugerir estabelecimentos similares com aqueles que o usuário está pesquisando</b>, mas que possam ser de interesse do cliente, mesmo que não façam parte daquela categoria específica.
