@@ -1,8 +1,22 @@
-<a href="https://imgbox.com/krMhDCkG" target="_blank"><img src="https://images2.imgbox.com/78/b0/krMhDCkG_o.png" alt="image host"/></a>
+<p align="center">
+    <img src="https://images2.imgbox.com/78/b0/krMhDCkG_o.png" alt="image host" width="50%"/>
+  </a>
+</p>
+
 
 # <b>Recomendação e avaliação de restaurantes</b> 
 
 **Ciência de Dados e Inteligência Artificial - MA5**
+
+**Autores**
+
+<p>Abdul Malik de Barros</p> 	
+<p>Ana Beatriz Oliveira de Macedo</p> 
+<p>Bruna Bellini Faria</p> 
+<p>Heloisa Mariani Rodrigues</p> 
+<p>Marina Lara</p> 
+
+## <b>Contextualização e problematização</b> 
 
 Este trabalho tem como objetivo <b>fornecer ao usuário uma ferramenta que permita a busca por uma lista de estabelecimentos</b>, oferecendo informações importantes e relevantes de acessibilidade, horário de funcionamento e localização, com a <i>vantagem de apresentar um resumo das principais avaliações para que o usuário possa avaliar mais facilmente se o estabelecimento atende às suas necessidades</i>.
 
